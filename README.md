@@ -15,7 +15,6 @@ The **AI Therapy Assistant** is a compassionate virtual assistant designed to pr
 
 ## Installation
 ### Prerequisites
-- Python 3.9+
 - API keys for Groq, Hugging Face, and optionally Google Cloud Speech-to-Text
 
 ### Setup
@@ -33,7 +32,6 @@ The **AI Therapy Assistant** is a compassionate virtual assistant designed to pr
      ```
      GROQ_API_KEY=your_groq_api_key
      HF_API_KEY=your_huggingface_api_key
-     GOOGLE_APPLICATION_CREDENTIALS=path/to/google_credentials.json
      ```
 4. Run the application:
    ```bash
