@@ -1,5 +1,4 @@
 # mental-health-chatbot-Gen-AI
-# AI Therapy Assistant
 
 ## Overview
 The **AI Therapy Assistant** is a compassionate virtual assistant designed to provide emotional support, track mental health progress, and offer coping strategies based on user input. It integrates **Groq's Llama 3.3-70B-Versatile LLM**, **Hugging Face models**, and **Google Speech Recognition** to analyze user emotions, provide therapeutic responses, and track stress/mood levels over time.
